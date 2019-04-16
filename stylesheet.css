@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
+  background-color: #d6995c;
   color: #fff;
   height: 90px;
 }
@@ -28,15 +28,15 @@ li {
 }
 
 .copy-container h1 {
-  font-size: 140px;
+  font-size: 70px;
 }
 
 .copy-container h2 {
-  font-size: 60px;
+  font-size: 20px;
 }
 
 .copy-container span {
-  color: #ff4a4a;
+  color: #cc5933;
 }
 
 .contents {
@@ -81,7 +81,7 @@ input, textarea{
 }
 
 .footer {
-  background-color: #2f5167;
+  background-color: #a93c20;
   color: #fff;
   height: 120px;
   padding: 40px;

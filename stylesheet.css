@@ -66,7 +66,8 @@ li {
 .contents-item img{
   width: 350px;
   height: 252px;
-  transition: transform 4s $easeInOutSine, opacity 0.4s ease-in;
+  /*transition: transform 4s $easeInOutSine, opacity 0.4s ease-in;*/
+  transition: transform 1s $easeOutQuart, opacity 0.3s ease-out;
 }
 
 .contact-form {

@@ -82,7 +82,8 @@ input, textarea{
 }
 
 .footer {
-  background-color: #a93c20;
+  /*background-color: #a93c20;*/
+  background: linear-gradient(-135deg, #DCE35B, #45B649);
   color: #fff;
   height: 120px;
   padding: 40px;
